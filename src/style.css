@@ -51,14 +51,14 @@ footer {
 }
 
 .search {
-  width: 20%;
-  margin: 0 -20px 0 12px;
+  width: 21%;
+  margin: -2px -15px 0 12px;
   padding: 4px 12px 0 10px;
 }
 
 .current {
-  width: 20%;
-  margin: 0 0 0 5px;
+  width: 21%;
+  margin: -2px -15px 0 5px;
   padding: 4px 10px 0 12px;
 }
 
