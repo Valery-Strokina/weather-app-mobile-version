@@ -40,9 +40,10 @@ footer {
   border: 1px solid #48484a;
   padding: 15px;
   margin: 20px auto;
-  max-width: 600px;
+  max-width: 450px;
   border-radius: 10px;
   background: #357376;
+  height: 700px;
 }
 
 .type {
@@ -52,11 +53,13 @@ footer {
 .search {
   width: 20%;
   margin: 0 -20px 0 12px;
+  padding: 4px 12px 0 10px;
 }
 
 .current {
   width: 20%;
   margin: 0 0 0 5px;
+  padding: 4px 10px 0 12px;
 }
 
 .form-control {
@@ -72,7 +75,7 @@ footer {
 }
 
 .overview {
-  margin: 0 0 20px 20px;
+  margin: 50px 0 20px 20px;
 }
 
 .temperature {
@@ -98,7 +101,7 @@ footer {
 
 .weather-forecast {
   color: #48484a;
-  margin: 20px 0 0 0;
+  margin: 150px 0 0 0;
   text-align: center;
 }
 
@@ -116,7 +119,7 @@ footer {
 .forecast-column {
   border: solid 1px;
   border-radius: 10px;
-  margin: 0 10px 0 9px;
+  margin: 0 5px 0 9px;
   font-size: 19px;
   background: #6ba8a9;
   border-color: transparent;
